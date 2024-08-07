@@ -1,6 +1,6 @@
-# Welcome to the UnclearCoder's GitHub!
+# Welcome to the ouslan's GitHub!
 
-Hello there! 👋 I'm [UnclearCoder](https://github.com/unclearcoder), an economics graduate with a passion for data science and a knack for coding. This is my GitHub space, where I explore the intersection of economics, data analysis, and programming. [Portfolio](https://unclearcoder.github.io/)
+Hello there! 👋 I'm [Alejandro Ouslan](https://github.com/ouslan), an economics graduate with a passion for data science and a knack for coding. This is my GitHub space, where I explore the intersection of economics, data analysis, and programming. [Portfolio](https://ouslan.github.io/)
 
 ## About Me
 
@@ -39,6 +39,6 @@ Hello there! 👋 I'm [UnclearCoder](https://github.com/unclearcoder), an econom
 
 Feel free to explore my repositories and connect with me! Let's code and explore the world of data together. 🚀
 <!---
-UnclearCoder/UnclearCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ouslan/ouslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
