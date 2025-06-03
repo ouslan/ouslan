@@ -1,44 +1,54 @@
-# Welcome to the ouslan's GitHub!
+<h2 align="left">Alejandro Ouslan M.S Satistics Mathematics</h2>
 
-Hello there! 👋 I'm [Alejandro Ouslan](https://github.com/ouslan), an economics graduate with a passion for data science and a knack for coding. This is my GitHub space, where I explore the intersection of economics, data analysis, and programming. [Portfolio](https://ouslan.github.io/)
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouslan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ouslan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🎓 Economics graduate with a specialization in Applied Economics
-- 💻 Proficient in Python programming for data analysis and automation
-- 📊 Experienced in creating essential economic indices, including GDP
-- 🌍 Skilled in Geo data analysis and Spatial regressions
-- 🌐 Dual heritage from Puerto Rico and El Salvador, navigating diverse challenges in economic research
+###
 
-## Projects Highlights
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/87619490?v=4"  />
 
-- 🚀 Led a collaborative project automating data retrieval and creating economic indices for Puerto Rico.
-- 📈 Currently working as a Research Assistant automating data workflows and generating graphical representations for impactful reports.
-- 📚 Actively pursuing continuous learning with certifications in Data Analysis and Scientific Computing with Python.
+###
 
-## Certifications
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
 
-- X JORNADAS INTERNACIONALES DE ENSEÑANZA Y APRENDIZAJE DE LA ESTADÍSTICA Y LA INVESTIGACIÓN OPERATIVA - Universidad de Salamanca
-- IBM ST0101EN: Statistics 101 - IBM
-- Scientific Computing with Python - freeCodeCamp
-- MongoDB Python Developer Path - MongoDB
-- Data Analysis with Python - freeCodeCamp
+###
 
-## Skills
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
 
-- Pattern Recognition
-- Quantitative Analytics
-- Visualization
-- Computer Science
-- Data Mining
-- Communication
-- Economic Research
-- Pandas (Software)
-- Seaborn
-- NumPy
+###
 
-Feel free to explore my repositories and connect with me! Let's code and explore the world of data together. 🚀
-<!---
-ouslan/ouslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ouslan/ouslan/output/snake.svg" alt="Snake animation" />
+
+###
